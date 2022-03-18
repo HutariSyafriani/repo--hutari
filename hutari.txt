@@ -2,3 +2,5 @@ Nama: Hutari Syafriani
 Nim: 6701204057
 Tempat tgl lahir: Tapan, 25 April 2002
 IPK: 3.67
+Hobi: Olahraga
+Cita-cita: Data Scientist
